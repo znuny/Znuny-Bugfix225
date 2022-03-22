@@ -12,7 +12,7 @@ This package contains a quick fix for the missing CKEditor codemirror plugin.
 
 **Installation**
 
-Download the [package](https://addons.znuny.com/api/addon_repos/public/2192/latest) and install it via admin interface.
+Download the [package](https://download.znuny.org/releases/packages/Znuny-Bugfix225-6.0.1.opm) and install it via admin interface.
 
 **Configuration**
 
@@ -20,7 +20,7 @@ No further configuration required.
 
 **Download**
 
-Download the [latest version](https://addons.znuny.com/api/addon_repos/public/2192/latest).
+Download the [latest version](https://download.znuny.org/releases/packages/Znuny-Bugfix225-6.0.1.opm).
 
 **Professional Support**
 
